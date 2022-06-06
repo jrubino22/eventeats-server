@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\jrubino\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\jrubino\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\jrubino\bin;C:\Python310\Scripts;C:\Python310;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Users\jrubino\AppData\Local\Android\Sdk\platform-tools;C:\Users\jrubino\AppData\Local\Yarn\bin;C:\Program Files\MongoDB\Server\4.2\bin;C:\Ruby30-x64\bin;C:\Users\jrubino\Desktop\Ruby30-x64\bin;C:\Ruby31-x64\bin;C:\Users\jrubino\AppData\Local\Microsoft\WindowsApps;C:\Users\jrubino\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jrubino\AppData\Roaming\npm;C:\Users\jrubino\AppData\Local\Yarn\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  16.13.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: Can't answer a question unless a user TTY
+      at ConsoleReporter.question (C:\Users\jrubino\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:96935:59)
+      at Object.<anonymous> (C:\Users\jrubino\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:89125:38)
+      at Generator.next (<anonymous>)
+      at step (C:\Users\jrubino\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\jrubino\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
